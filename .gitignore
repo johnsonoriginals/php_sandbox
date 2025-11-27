@@ -1,0 +1,10 @@
+.phpunit.result.cache
+.phpunit.xml.dist.bak
+/coverage
+/vendor
+/cachegrind
+/.idea
+/phpunit.xml.dist.bak
+.env
+state_machine.log
+.DS_Store
